@@ -1,0 +1,75 @@
+header{
+    margin-top: 15px;
+}
+.web_project{
+    background-image: url("../img/1.png");
+    width: auto;
+    height: 1080px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.our_services {
+    background-color: #e4fdf9;
+    width: auto;
+   
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.cardik {
+    background-color: white;
+}
+.cardik_price {
+    background-color: white;
+}
+.cardik_price:hover {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.contact_us{
+    background-image: url("../img/19.png");
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    nav ul li {
+        display: inline-block;
+        padding: 10px 10px 10px 10px;
+        
+      cursor: pointer;
+    }
+    nav ul li:hover{
+        background-color: cyan;
+        color:white;
+    }
+    .filter-menu__item{
+       border: 2px solid cyan;
+       
+    
+    }
+    
+   
+    
+    .box {
+        min-height: 140px;
+        min-width: calc(22% - 28px);
+        padding: 0 10px;
+        margin-right: 15px;
+        margin-bottom: 15px;
+        border-width: 3px;
+      
+        transition: all ease 0.3s;
+    }
+    .box:hover{
+        filter: brightness(0.3);
+    }
+    
+    
+    .hide {
+      display: none;
+      animation-name: a1;
+      animation-duration: 0.5s;
+      animation-fill-mode: forwards;
+    }
+
+    
+    
